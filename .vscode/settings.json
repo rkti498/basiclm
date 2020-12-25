@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": ".venv\\Scripts\\python.exe",
+    "python.linting.flake8Args": [
+      "--max-line-length=120",
+      "--max-complexity","20"
+    ],
+    "python.dataScience.textOutputLimit": 0,
+    "editor.mouseWheelZoom": true,
+    "editor.renderWhitespace": "all"
+  }
